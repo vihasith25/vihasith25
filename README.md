@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on **Data Analytics Internship at HCDS Technologies**
+- 🔭 I’m currently working on **Project Trainee at HCDS Technologies**
 - 🌱 I’m currently learning **Advanced Machine Learning, Deep Learning, and Cloud Computing (AWS)**
 - 👯 I’m looking to collaborate on **AI, ML, and Cloud-based projects**
 - 🤔 I’m looking for help with **Research in Graph Theory and Evolutionary Algorithms**
