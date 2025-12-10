@@ -61,6 +61,44 @@
 ![Technical Documentation](https://img.shields.io/badge/Technical%20Documentation-4A154B?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
+## 📂 Projects
+
+### 🔹 **1. AquaHealth Watch – Community Health Web Application** *(Internship Project)*
+
+A web-based system designed to track and report **waterborne diseases** in local communities.
+
+**🔧 Tech Used:** HTML, CSS, JavaScript, Local Storage  
+**👥 Users:** 200+ test users  
+**📈 Impact:** Improved accessibility & engagement by **30%**
+
+**✨ Features**
+- Disease incident reporting system  
+- Data visualization and insights  
+- Responsive, mobile-friendly UI  
+- Data stored locally — no backend required  
+
+**📝 Summary**
+AquaHealth Watch demonstrates how lightweight web tools can support public health monitoring and awareness effectively.
+
+---
+
+### 🔹 **2. AI Tool Detection using Vision Transformers**
+
+An AI-based model for classifying mechanical tools from images using **Vision Transformers (ViT)**.
+
+**📦 Dataset:** *mechanical-tools-dataset* (Kaggle)  
+**🎯 Classes:** 3 tool categories  
+**📊 Accuracy:** **87%**, with **97% AUC**  
+**⚡ Model Used:** `google/vit-base-patch16-224-in21k` (Hugging Face)
+
+**🔧 Tech Used:** Python, PyTorch, Hugging Face Transformers, Matplotlib, Scikit-learn
+
+**🔍 Highlights**
+- Fine-tuned pre-trained ViT model  
+- Confusion matrix & ROC curve visualizations  
+- Outperformed CNN-based approaches in feature extraction
+
+---
 
 ## 🎖️ Certifications
 
