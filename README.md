@@ -82,6 +82,16 @@ AquaHealth Watch demonstrates how lightweight web tools can support public healt
 
 ---
 
+## 🏅 Achievements
+
+- 🏆 **Vice President – Cloud Computing & DevOps Club**  
+  Led cloud initiatives, organized AWS workshops, mentored students, and promoted DevOps practices on campus.
+
+- 🎓 **Completed One-Year Project Trainee Internship at HCDS Techh** *(Hybrid)*  
+  Contributed to backend development and data analytics solutions using **Power BI** and **Python**.
+
+---
+
 ### 🔹 **2. AI Tool Detection using Vision Transformers**
 
 An AI-based model for classifying mechanical tools from images using **Vision Transformers (ViT)**.
