@@ -126,13 +126,3 @@ An AI-based model for classifying mechanical tools from images using **Vision Tr
 - **Azure Fundamentals** — `c9b21608-a9ee-416c-882b-8c38c4056af4`
 
 ---
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=vihasith25&theme=dark&hide_border=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=vihasith25&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vihasith25&theme=dark&hide_border=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=vihasith25&icon=0&color=0)](https://visitcount.itsvg.in)
