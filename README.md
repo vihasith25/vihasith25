@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm **Ranga Vihasith**
 
-🚀 **Aspiring AI & Cloud Engineer** passionate about building intelligent systems, scalable architectures, and data-driven applications. I enjoy merging research with practical implementation—whether it’s optimizing algorithms, deploying cloud-native solutions, or designing intuitive digital experiences.
+🚀 **Aspiring Software Engineer** passionate about building intelligent systems, scalable architectures, and data-driven applications. I enjoy merging research with practical implementation—whether it’s optimizing algorithms, deploying cloud-native solutions, or designing intuitive digital experiences.
 
 ---
 
