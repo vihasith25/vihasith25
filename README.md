@@ -1,26 +1,90 @@
-## Hi there 👋
+## Hi there 👋 I'm **Ranga Vihasith**
 
-- 🎓 I have **completed my Project Trainee role at HCDS Technologies**
-- 🌱 I’m currently learning **Advanced Machine Learning, Deep Learning, and Cloud Computing (AWS)**
-- 👯 I’m looking to collaborate on **AI, ML, and Cloud-based projects**
-- 🤔 I’m looking for help with **Research in Graph Theory and Evolutionary Algorithms**
-- 💬 Ask me about **Python, C, SQL, Web Development (HTML, CSS, React), and Data Analytics**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/vihasith-ranga)**
+🚀 **Aspiring AI & Cloud Engineer** passionate about building intelligent systems, scalable architectures, and data-driven applications. I enjoy merging research with practical implementation—whether it’s optimizing algorithms, deploying cloud-native solutions, or designing intuitive digital experiences.
+
+---
+
+## 🎓 Profile Snapshot
+
+- 🎓 **B.Tech in CSE (AI & ML Specialization)** — SR University *(2026)*
+- 🎓 **Completed One-Year Project Trainee Internship at HCDS Techh** *(4 Oct 2024 – 3 Oct 2025)*  
+  ▪ Executed internal & external project tasks  
+  ▪ Worked on backend development and data analysis using **Python** and **Power BI**
+- 🏆 **Vice President – Cloud Computing & DevOps Club**  
+  ▪ Led cloud and DevOps initiatives, conducted AWS workshops, mentored peers, promoted cloud-native learning culture
+- 🌱 Currently learning **Advanced ML, Deep Learning, and Cloud Computing (AWS & Azure)**
+- 👯 Looking to collaborate on **AI, ML, Cloud, and Data Engineering projects**
+- 🤔 Research Interests: **Graph Theory**, **Evolutionary Algorithms**
+- 💬 Ask me about **Python, SQL, Data Analytics, and Web Development**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I enjoy blending research with real-world applications, whether it’s optimizing algorithms or designing intuitive UIs.**
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vihasith-ranga/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vihasithsr@gmail.com)
+## 🌐 Social Links
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vihasith25&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vihasith25&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vihasith25&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vihasith-ranga/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vihasithsr@gmail.com)
 
 ---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📊 Analytics & Data
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4B8BBE?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+### 🧠 Concepts
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-512BD4?style=for-the-badge&logo=visualstudio)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-black?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=tensorflow)
+
+### 🛠️ Tools
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+### 🌐 Web Technologies
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React.js (Basics)](https://img.shields.io/badge/React.js%20(Basics)-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### ☁️ Cloud
+![AWS (Basics)](https://img.shields.io/badge/AWS%20(Basics)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🔧 Other Skills
+![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-008080?style=for-the-badge&logo=teamspeak)
+![Technical Documentation](https://img.shields.io/badge/Technical%20Documentation-4A154B?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+## 🎖️ Certifications
+
+### 🟦 Cisco
+- **Python Essentials 1** — *Credential ID:* `fab12fff-7dc1-4e75-8648-e9909fda0a45`
+- **Data Analytics Essentials** — *Credential ID:* `7d129cfa-f478-4c08-ab2b-9b3f37564d7b`
+- **CCNA: Introduction to Networks** — *Credential ID:* `8cf2fb1c-64b4-4dd5-9fe9-245e72348969`
+
+### 🟧 Amazon Web Services (AWS)
+- **Cloud Foundations** — `16b06111-53fa-4c1d-a257-a8c6d0362af9`
+- **Cloud Web Application Builder** — `65d27175-9d90-49c9-8f2b-60f65fad9baa`
+- **Cloud Data Pipeline Builder** — `07ab28b3-b292-4698-9cda-b0983910c87c`
+
+### 🟦 Microsoft
+- **Azure Fundamentals** — `c9b21608-a9ee-416c-882b-8c38c4056af4`
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=vihasith25&theme=dark&hide_border=false&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=vihasith25&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vihasith25&theme=dark&hide_border=false&layout=compact)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=vihasith25&icon=0&color=0)](https://visitcount.itsvg.in)
